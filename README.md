@@ -32,7 +32,7 @@ AIL is a modular framework to analyse potential information leaks from unstructu
 ![Dashboard](./doc/screenshots/dashboard.png?raw=true "AIL framework dashboard")
 
 
-![Finding webshells with AIL](./doc/screenshots/webshells.gif?raw=true "Finding websheels with AIL")
+![Finding webshells with AIL](./doc/screenshots/webshells.gf?raw=true "Finding websheels with AIL")
 
 Features
 --------
